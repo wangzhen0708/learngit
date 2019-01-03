@@ -7,3 +7,7 @@ def fun(self):
 def index(request):
     return Httpresponse('index.html')
 '''
+'''
+def register(requster):
+    return rander('index.html')
+'''
